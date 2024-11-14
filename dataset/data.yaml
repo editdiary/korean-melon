@@ -1,0 +1,9 @@
+path: # 데이터셋 상위 경로
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names:
+  0: fruit
+  1: flower
